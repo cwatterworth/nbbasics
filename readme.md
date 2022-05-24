@@ -7,4 +7,4 @@ Intro to notebook based computing for the aap course. Includes
 * Netflix and notebooks
 * the future of notebook computing?
 
-TODO
+TODOJupyter notebooks are terrific
